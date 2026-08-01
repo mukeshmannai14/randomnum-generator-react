@@ -1,7 +1,3 @@
-# randomnum-generator-react
-🎲 A modern Random Number Generator built with React.js using the useState Hook, featuring dynamic state updates, conditional rendering, a glassmorphism UI, colorful gradient styling, and responsive design.
-# 🎲 Random Number Generator - React.js
-
 A modern **Random Number Generator** built with **React.js** to demonstrate the use of the **useState Hook**, event handling, and conditional rendering. The application generates a random number between **1 and 100** with a single button click and updates the user interface instantly.
 
 ---
